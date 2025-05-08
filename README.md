@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 A responsive and user-friendly Currency Converter built with React, JavaScript, and REST APIs, allowing users to convert between different currencies using real-time exchange rates.
 
 Features
+
 Real-Time Exchange Rates: Fetches up-to-date currency conversion rates using a free REST API.
 Intuitive UI: Clean and responsive design with a seamless user experience.
 Custom React Hook: Encapsulates API fetching logic for reusability and maintainability.
