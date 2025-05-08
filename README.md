@@ -12,8 +12,13 @@ A responsive and user-friendly Currency Converter built with React, JavaScript, 
 Features
 
 Real-Time Exchange Rates: Fetches up-to-date currency conversion rates using a free REST API.
+
 Intuitive UI: Clean and responsive design with a seamless user experience.
+
 Custom React Hook: Encapsulates API fetching logic for reusability and maintainability.
+
 Dynamic Currency Selection: Supports multiple currencies with dropdown selectors.
+
 Swap Functionality: Quickly switch between source and target currencies.
+
 Error Handling: Displays user-friendly error messages for API failures.
