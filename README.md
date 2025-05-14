@@ -1,4 +1,4 @@
-# Welcome to my portfolio repository!
+# Welcome to my repository!
 
 Technologies used: HTML5, CSS3, JavaScript, REST API
 Developed with HTML, CSS, and JavaScript, this website serves as an interactive and responsive Currency Converter. Users can convert values between different currencies using exchange rates fetched from APIs in real-time.
