@@ -1,24 +1,8 @@
-# React + Vite
+# Welcome to my portfolio repository!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies used: HTML5, CSS3, JavaScript, REST API
+Developed with HTML, CSS, and JavaScript, this website serves as an interactive and responsive Currency Converter. Users can convert values between different currencies using exchange rates fetched from APIs in real-time.
+Currency selection dropdowns make entering the base and target currencies easy, while the flag icons of currencies are converted in an animated manner. Users can enter the amount they want to convert, and see the computed value and exchange rate flags change in real-time. The converter also validates user input, improving the overall experience.
+This project focuses on fetching data using include, which demonstrates API integration, DOM manipulation, and asynchronous JavaScript. It also features basic error handling with a set of possible errors, such as invalid data and API unavailability.
+The design is fully responsive, adapting to any device whether it is a mobile, tablet, or desktop. This project helped strengthen my skills in JavaScript logic and responsive front-end design.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-A responsive and user-friendly Currency Converter built with React, JavaScript, and REST APIs, allowing users to convert between different currencies using real-time exchange rates.
-
-Features
-
-Real-Time Exchange Rates: Fetches up-to-date currency conversion rates using a free REST API.
-
-Intuitive UI: Clean and responsive design with a seamless user experience.
-
-Custom React Hook: Encapsulates API fetching logic for reusability and maintainability.
-
-Dynamic Currency Selection: Supports multiple currencies with dropdown selectors.
-
-Swap Functionality: Quickly switch between source and target currencies.
-
-Error Handling: Displays user-friendly error messages for API failures.
